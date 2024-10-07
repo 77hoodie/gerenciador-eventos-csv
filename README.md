@@ -1,5 +1,5 @@
 # gerenciador-eventos-csv
-Gerenciador de eventos feito em java que permite cadastrar eventos, listar eventos, importa-lós para .csv e outras funcionalidades. Utiliza as bibliotecas OpenCSV para a exportação dos arquivos e JUnit para testes unitários.
+Gerenciador de eventos feito em java que permite cadastrar eventos, listar eventos, importa-lós para .csv e outras funcionalidades. Utiliza as bibliotecas OpenCSV para a exportação dos arquivos e JUnit para testes unitários. O projeto foi gerenciado no Maven.
 
 Requisitos:
 Java JDK 8+, 
