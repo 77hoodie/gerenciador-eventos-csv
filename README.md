@@ -6,7 +6,7 @@ Java JDK 8+,
 JUnit 5
 
 No terminal:
-1. Cadastrar evento: Digite o nome do evento, a data, o local e a quantidade máxima de participantes (máximo de 10 eventos)
+1. Cadastrar evento: Cadastra um evento com nome, data, local e a quantidade máxima de participantes (máximo de 10 eventos)
 2. Listar eventos cadastrados: Apenas lista os eventos
 3. Cadastrar participantes: Cadastra um participante para um evento de escolha
 4. Buscar evento por nome: Busca um evento de acordo com o nome
