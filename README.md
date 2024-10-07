@@ -10,5 +10,5 @@ No terminal:
 2. Listar eventos cadastrados: Apenas lista os eventos
 3. Cadastrar participantes: Cadastra um participante para um evento de escolha
 4. Buscar evento por nome: Busca um evento de acordo com o nome
-5. Exportar evento para .csv: Exporta o evento no formato .csv. Escolher o caminho do arquivo é opcional, pode-se apenas digitar o nome do mesmo
+5. Exportar evento para .csv: Exporta o evento no formato .csv, exemplo: evento.csv
 6. Sair: Sai do programa
