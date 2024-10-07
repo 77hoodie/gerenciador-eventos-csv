@@ -2,7 +2,7 @@
 Gerenciador de eventos feito em java que permite cadastrar eventos, listar eventos, importa-lós para .csv e outras funcionalidades. Utiliza as bibliotecas OpenCSV para a exportação dos arquivos e JUnit para testes unitários.
 
 Requisitos:
-Java JDK 8+
+Java JDK 8+, 
 JUnit 5
 
 No terminal:
